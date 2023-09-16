@@ -1,16 +1,20 @@
 ---
 layout: page
-title: Research
+title: research
 nav_order: 1
 has_children: true
-has_toc: true
+has_toc: false
 ---
 
-## Bioinformatics
+<details>
+<summary>Bioinformatics</summary>
 
 This is a brief description of the Bioinformatics section.
 
-## Experimental Projects
+</details>
+
+<details>
+<summary>Experimental Projects</summary>
 
 - Biophysics
 - Biochemistry
@@ -18,14 +22,25 @@ This is a brief description of the Bioinformatics section.
 
 This is a brief description of the Experimental Projects section, which includes subcategories for Biophysics, Biochemistry, and Molecular Biology.
 
-## DNA Nanotechnology
+</details>
+
+<details>
+<summary>DNA Nanotechnology</summary>
 
 This is a brief description of the DNA Nanotechnology section.
 
-## Biostatistics
+</details>
+
+<details>
+<summary>Biostatistics</summary>
 
 This is a brief description of the Biostatistics section.
 
-## Data Science
+</details>
+
+<details>
+<summary>Data Science</summary>
 
 This is a brief description of the Data Science section.
+
+</details>
