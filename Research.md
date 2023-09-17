@@ -23,9 +23,9 @@ Throughout my academic, industrial and professional journey, I have cultivated a
 <details>
 <summary>Experimental Projects</summary>
   
-  - Biophysics Discovery of a unique DNA structure "iCD-DNA" linked to multiple neurological disorder
-  - Biochemistry Discovery of a DNAzyme to catalyse "Click Reaction"
-  - Molecular Biology Mapping DNA G-Quadruplexes in living cells
+  - Biophysics: Discovery of a unique DNA structure "iCD-DNA" linked to multiple neurological disorder
+  - Biochemistry: Discovery of a DNAzyme to catalyse "Click Reaction"
+  - Molecular Biology: Mapping DNA G-Quadruplexes in living cells
   
 </details>
 
