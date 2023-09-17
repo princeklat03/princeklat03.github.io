@@ -22,20 +22,25 @@ Throughout my academic, industrial and professional journey, I have cultivated a
 
 <details>
 <summary>Experimental Projects</summary>
-- Biophysics Discovery of a unique DNA structure "iCD-DNA" linked to multiple neurological disorder
-- Biochemistry Discovery of a DNAzyme to catalyse "Click Reaction"
-- Molecular Biology Mapping DNA G-Quadruplexes in living cells
+  
+  - Biophysics Discovery of a unique DNA structure "iCD-DNA" linked to multiple neurological disorder
+  - Biochemistry Discovery of a DNAzyme to catalyse "Click Reaction"
+  - Molecular Biology Mapping DNA G-Quadruplexes in living cells
   
 </details>
 
 <details>
 <summary>DNA Nanotechnology</summary>
-- A novel engineering to make long and reversible DNA nanowire and introduction of "Socket-plug" complementarity
+  
+  - A novel engineering to make long and reversible DNA nanowire and introduction of "Socket-plug" complementarity
+    
 </details>
 
 <details>
 <summary>Biostatistics</summary>
-- Placebo study from multi arm platform trials 
+  
+  - Placebo study from multi arm platform trials
+    
 </details>
 
 <details>
