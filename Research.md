@@ -27,12 +27,10 @@ Throughout my academic, industrial and professional journey, I have cultivated a
 <summary>Biophysics</summary>
 This is a brief description of the Biophysics subcategory.
 </details>
-
 <details>
 <summary>Biochemistry</summary>
 This is a brief description of the Biochemistry subcategory.
-</details>
-  
+</details>  
 <details>
 <summary>Molecular Biology</summary>
 This is a brief description of the Molecular Biology subcategory.
