@@ -11,7 +11,7 @@ Throughout my academic, industrial and professional journey, I have cultivated a
 <details>
 <summary>Bioinformatics</summary>
 
-- Molecular Dynamics simulation
+- [Molecular Dynamics simulation](Bioinformatics1.md)
 - RNA Seq
 - Chip Seq
 - Haplotype Tagging
