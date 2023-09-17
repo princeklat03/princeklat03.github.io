@@ -22,20 +22,19 @@ Throughout my academic, industrial and professional journey, I have cultivated a
 
 <details>
 <summary>Experimental Projects</summary>
-
-<details>
+This is a brief description of the Experimental Projects section.
+<details style="margin-left: 20px; border-left: 2px solid #333; padding-left: 10px;">
 <summary>Biophysics</summary>
 This is a brief description of the Biophysics subcategory.
 </details>
-<details>
+<details style="margin-left: 20px; border-left: 2px solid #333; padding-left: 10px;">
 <summary>Biochemistry</summary>
 This is a brief description of the Biochemistry subcategory.
-</details>  
-<details>
+</details>
+<details style="margin-left: 20px; border-left: 2px solid #333; padding-left: 10px;">
 <summary>Molecular Biology</summary>
 This is a brief description of the Molecular Biology subcategory.
 </details>
-
 </details>
 
 <details>
