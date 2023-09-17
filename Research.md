@@ -45,7 +45,7 @@ Throughout my academic, industrial and professional journey, I have cultivated a
 
 <details>
 <summary>Data Science</summary>
-
-This is a brief description of the Data Science section.
-
+  
+  - [List of all Machine learning projects](Data%20Science.md)
+    
 </details>
