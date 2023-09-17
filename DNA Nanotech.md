@@ -19,7 +19,7 @@ I conceived an original approach to create elongated and reversible DNA nanowire
 1.) [A Long and Reversibly Self-Assembling 1D DNA Nanostructure Built from Triplex and Quadruplex Hybrid Tiles.](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202016668){:target="_blank" rel="noopener"}
 We report a new DNA nanostructure, an extended 1-dimensional composite built for the first time out of structurally robust yet conveniently disassembled DNA triple helices, interspersed with short stretches of G-quadruplexes. These “TQ Hybrid” 1-dimensional nanostructures require potassium ions and modestly acidic pH for their formation and are easily disassembled by changes to either of these requirements. We initially prepared and characterized a “monomeric” TQ Hybrid tile; followed by “sticky” TQs tiles, incorporating unique guanine-only sticky ends, that enable efficient self-assembly via G-quartet formation of nanostructures >150 nm in length, as seen with atomic force microscopy and transmission electron microscopy. We anticipate that such DNA TQ Hybrid structures will find unique and varied application as communication modules within larger nanostructures, and as sensors, logic gates, as well as in other aspects of DNA nanotechnology.
 
-<img src="/images/Wire_1.png" height="800" align="center"/>
+<img src="/images/Wire_1.png" height="400" align="center"/>
 
 
 2.) [Unusual Paradigm for DNA–DNA Recognition and Binding: “Socket-Plug” Complementarity.](https://pubs.acs.org/doi/abs/10.1021/jacs.2c12514){:target="_blank" rel="noopener"}
