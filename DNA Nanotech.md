@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Science
+title: DNA Nanotech
 permalink: /DNA Nanotech/
 ---
 
