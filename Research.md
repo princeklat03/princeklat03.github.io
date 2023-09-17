@@ -30,12 +30,12 @@ Throughout my academic, industrial and professional journey, I have cultivated a
 
 <details>
 <summary>DNA Nanotechnology</summary>
-* A novel engineering to make long and reversible DNA nanowire and introduction of "Socket-plug" complementarity
+- A novel engineering to make long and reversible DNA nanowire and introduction of "Socket-plug" complementarity
 </details>
 
 <details>
 <summary>Biostatistics</summary>
-* Placebo study from multi arm platform trials 
+- Placebo study from multi arm platform trials 
 </details>
 
 <details>
