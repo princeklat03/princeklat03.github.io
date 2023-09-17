@@ -25,6 +25,12 @@ We report a new DNA nanostructure, an extended 1-dimensional composite built for
 2.) [Unusual Paradigm for DNA–DNA Recognition and Binding: “Socket-Plug” Complementarity.](https://pubs.acs.org/doi/abs/10.1021/jacs.2c12514){:target="_blank" rel="noopener"}
 DNA is the key informational polymer in biology by virtue of its precisely defined self-assembling properties. Watson-Crick complementarity, which underlies DNA’s self-assembly, is required not only in biology but has also proved powerful in the field of nanoscience, where it has been utilized to assemble complex 2D and 3D architectures and nanodevices built from the DNA double-helix. Aside from Watson-Crick base-pairing, however, DNA also participates in alternative base pairing schemes, giving rise to DNA triplexes and G-quadruplexes. Herein, we describe “sticky-ended” DNA triplex-quadruplex composites that specifically recognize and bind to each other using a wholly different logic, “socket-plug” complementarity, a shape-sensing fitting of guanine “prongs” into guanine-lacking “cavities.” A remarkable property of this kind of complementarity is the key role played in it by specific counter-cations: thus, exclusive “self” socket-plug recognition occurs over “other” in sodium salt solutions while precisely the reverse occurs in potassium salt solutions. We have used gel electrophoresis, Förster resonance energy transfer, alkylation protection, and structural modeling to study this remarkable fundamental property of DNA, that we anticipate will find wide practical application.
 
+<video controls width="400" height="auto" style="display:block; margin: 0 auto;">
+    <source src="/images/trip_quad.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
+
 
 
 
