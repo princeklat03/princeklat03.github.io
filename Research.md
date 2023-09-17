@@ -22,9 +22,11 @@ Throughout my academic, industrial and professional journey, I have cultivated a
 
 <details>
 <summary>Experimental Projects</summary>
+  
 - Biophysics
 - Biochemistry
 - Molecular Biology
+  
 </details>
 
 <details>
