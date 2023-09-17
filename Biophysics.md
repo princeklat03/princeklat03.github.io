@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Data Science
-permalink: /DNA Nanotech/
+title: Biophysics
+permalink: /Biophysics/
 ---
 
 ## Project Overview
