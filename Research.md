@@ -16,7 +16,7 @@ Throughout my academic, industrial and professional journey, I have cultivated a
 * Chip Seq
 * Haplotype Tagging
 * Single Cell Origin of Replication mapping
-* Index Hopping
+* Index Hopping in NGS
 
 </details>
 
