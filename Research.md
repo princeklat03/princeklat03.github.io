@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Research
 nav_order: 1
 has_children: true
