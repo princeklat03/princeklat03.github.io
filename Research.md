@@ -8,12 +8,12 @@ Throughout my academic, industrial and professional journey, I have cultivated a
 
 <details>
 <summary>Bioinformatics</summary>
-  * Molecular Dynamics simulations
-  * RNA Seq
-  * Chip Seq
-  * Haplotype Tagging
-  * Single Cell Origin of Replication mapping
-  * Index Hopping in NGS
+  *Molecular Dynamics simulations
+  *RNA Seq
+  *Chip Seq
+  *Haplotype Tagging
+  *Single Cell Origin of Replication mapping
+  *Index Hopping in NGS
 
 </details>
 
