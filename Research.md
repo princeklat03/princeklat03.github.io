@@ -7,7 +7,7 @@ permalink: /Research/
 Throughout my academic, industrial and professional journey, I have cultivated a diverse portfolio of projects spanning several exciting disciplines. From the intricate world of **Bioinformatics** and the complexities of **Biophysics**, **Biochemistry**, and **Molecular Biology**, to the fascinating realm of **DNA Nanotechnology**, I've delved into projects that have allowed me to explore and contribute to a rich tapestry of scientific knowledge. I've also explored the vital field of **Biostatistics** and harnessed the power of **Data Science** to extract valuable insights from complex datasets. These experiences have not only broadened my horizons but have also deepened my passion for interdisciplinary research and problem-solving in the fields of life sciences and data analysis. 
 
 <details>
-<summary>Bioinformatics</summary>
+<summary> **Bioinformatics** </summary>
  
  * Molecular Dynamics simulations
  * RNA Seq
@@ -19,12 +19,10 @@ Throughout my academic, industrial and professional journey, I have cultivated a
 </details>
 
 <details>
-<summary>Experimental Projects</summary>
+<summary> **Experimental Projects** </summary>
 
 <details>
 <summary>Biophysics: Discovery of a unique DNA structure "iCD-DNA" linked to multiple neurological disorder</summary>
-
- <div class="subsection">
  
 ## Project Overview
  
@@ -46,15 +44,6 @@ I, under the supervision of Dr. Dipankar Sen, worked with d(C2G4) repeat DNA seq
   "braided" DNA triplex. Given that iCD-DNA forms under slightly acidic solution conditions, we do not know at this point in time whether or not it forms within living cells.
 
 </details>
-
-</div>
-
-
-<style>
-  .subsection {
-    margin-left: 20px; /* Adjust the indentation as needed */
-  }
-</style>
     
   * [Biochemistry: Discovery of a DNAzyme to catalyse "Click Reaction"](Biochemistry.md)
   * [Molecular Biology: Mapping DNA G-Quadruplexes in living cells](Molecular%20Biology.md)
