@@ -51,15 +51,6 @@ I, under the supervision of Dr. Dipankar Sen, worked with d(C2G4) repeat DNA seq
 
 </details>
 
-<style>
-  .section {
-    margin-left: 20px; /* Adjust the indentation as needed */
-  }
-  .subsection {
-    margin-left: 20px; /* Adjust the indentation as needed */
-  }
-</style>
-
 
 <details>
 <summary>DNA Nanotechnology</summary>
