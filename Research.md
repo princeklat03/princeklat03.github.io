@@ -19,8 +19,8 @@ Throughout my academic, industrial and professional journey, I have cultivated a
 </details>
 
 <details>
-<summary> **Experimental Projects** </summary>
-
+<summary>Experimental Projects</summary>
+ 
 <details>
 <summary>Biophysics: Discovery of a unique DNA structure "iCD-DNA" linked to multiple neurological disorder</summary>
  
