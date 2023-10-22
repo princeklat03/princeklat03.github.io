@@ -23,7 +23,7 @@ Throughout my academic, industrial and professional journey, I have cultivated a
 
 <details>
 <summary>Biophysics: Discovery of a unique DNA structure "iCD-DNA" linked to multiple neurological disorder</summary>
-    
+<div class="subsection">
 ## Project Overview
  
  Attributes | |
@@ -47,7 +47,12 @@ I, under the supervision of Dr. Dipankar Sen, worked with d(C2G4) repeat DNA seq
     
   * [Biochemistry: Discovery of a DNAzyme to catalyse "Click Reaction"](Biochemistry.md)
   * [Molecular Biology: Mapping DNA G-Quadruplexes in living cells](Molecular%20Biology.md)
-  
+</div>
+<style>
+  .subsection {
+    margin-left: 20px; /* Adjust the indentation as needed */
+  }
+</style>
 </details>
 
 <details>
