@@ -23,7 +23,9 @@ Throughout my academic, industrial and professional journey, I have cultivated a
 
 <details>
 <summary>Biophysics: Discovery of a unique DNA structure "iCD-DNA" linked to multiple neurological disorder</summary>
-<div class="subsection">
+
+ <div class="subsection">
+ 
 ## Project Overview
  
  Attributes | |
@@ -42,17 +44,22 @@ I, under the supervision of Dr. Dipankar Sen, worked with d(C2G4) repeat DNA seq
   distinguishable from the spectrum of the left handed DNA double-helix, Z-DNA. On the basis of CD spectroscopy, gel mobility as well as chemical protection analysis,
   we propose that this structure, which we call "iCD-DNA", may be a left-handed Hoogsteen base-paired duplex, an unorthodox G-quadruplex/i-motif composite, or a non-canonical,
   "braided" DNA triplex. Given that iCD-DNA forms under slightly acidic solution conditions, we do not know at this point in time whether or not it forms within living cells.
+
 </details>
 
-    
-  * [Biochemistry: Discovery of a DNAzyme to catalyse "Click Reaction"](Biochemistry.md)
-  * [Molecular Biology: Mapping DNA G-Quadruplexes in living cells](Molecular%20Biology.md)
 </div>
+
+
 <style>
   .subsection {
     margin-left: 20px; /* Adjust the indentation as needed */
   }
 </style>
+    
+  * [Biochemistry: Discovery of a DNAzyme to catalyse "Click Reaction"](Biochemistry.md)
+  * [Molecular Biology: Mapping DNA G-Quadruplexes in living cells](Molecular%20Biology.md)
+
+
 </details>
 
 <details>
