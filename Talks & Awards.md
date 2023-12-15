@@ -5,21 +5,22 @@ permalink: /Talks & Awards/
 ---
 
 ## Awards/Fellowship
-1. CD Nelson Entrance Scholarship, SFU, Canada [Amount: $72,000]
-2. Provost Prize of Distinction, SFU, Canada [Amount: $16,666]
-3. David L. Baillie Grad Fellowship, SFU, Canada [Amount: $7,600]
-4. Thesis Completion Fellowship (TCF), SFU, Canada [Amount: $7000]
-5. Graduate Fellowship, SFU, Canada [Amount: $6,500]
-6. Weyerhaeuser Grad Scholarship, SFU, Canada [Amount: $6,500]
-7. Special Grad Entrance Scholarship, SFU, Canada [Amount: $6,000]
-8. Dr. Bruce Brandhorst Prize: Best Publication 2020, SFU, Canada [Amount: $1000]
-9. Fort Capital i2I Graduate Scholarship, SFU, Canada [Amount: $5800]
-10. Oral presentation winner, 101st CSC conference, Canada [Amount: $100]
-11. MBB Colloquium poster prize winner, SFU, Canada
-12. General Proficiency Medal Year 2015, IIT Kanpur, India
-13. ACADEMIC EXCELLENCE AWARD Year 2013-14, IIT Kanpur, India
-14. ACADEMIC EXCELLENCE AWARD Year 2012-13, IIT Kanpur, India
-15. Merit-cum-Means scholarship, IIT Kanpur, India (Tuition Fee)
+1. Winner Invention to Innovation (i2I) Emerging Venture Pitch Competition [Amount: $2,500]
+2. CD Nelson Entrance Scholarship, SFU, Canada [Amount: $72,000]
+3. Provost Prize of Distinction, SFU, Canada [Amount: $16,666]
+4. David L. Baillie Grad Fellowship, SFU, Canada [Amount: $7,600]
+5. Thesis Completion Fellowship (TCF), SFU, Canada [Amount: $7000]
+6. Graduate Fellowship, SFU, Canada [Amount: $6,500]
+7. Weyerhaeuser Grad Scholarship, SFU, Canada [Amount: $6,500]
+8. Special Grad Entrance Scholarship, SFU, Canada [Amount: $6,000]
+9. Dr. Bruce Brandhorst Prize: Best Publication 2020, SFU, Canada [Amount: $1000]
+10. Fort Capital i2I Graduate Scholarship, SFU, Canada [Amount: $5800]
+11. Oral presentation winner, 101st CSC conference, Canada [Amount: $100]
+12. MBB Colloquium poster prize winner, SFU, Canada
+13. General Proficiency Medal Year 2015, IIT Kanpur, India
+14. ACADEMIC EXCELLENCE AWARD Year 2013-14, IIT Kanpur, India
+15. ACADEMIC EXCELLENCE AWARD Year 2012-13, IIT Kanpur, India
+16. Merit-cum-Means scholarship, IIT Kanpur, India (Tuition Fee)
 
 ## Conference Talks
 ### _Poster Presentation_
