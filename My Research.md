@@ -16,14 +16,12 @@ Throughout my academic, industrial and professional journey, I have cultivated a
 - [Molecular Biology: Mapping DNA G-Quadruplexes in living cells](Molecular%20Biology.md)
 
 
-DNA Nanotechnology
-  
-* [A novel engineering to make long and reversible DNA nanowire and introduction to "Socket-plug" complementarity](DNA%20Nanotech.md)
+## DNA Nanotechnology
+- [A novel engineering to make long and reversible DNA nanowire and introduction to "Socket-plug" complementarity](DNA%20Nanotech.md)
 
 
-Biostatistics
-
-* Placebo study from multi arm platform trials
+## Biostatistics
+- Placebo study from multi arm platform trials
 
 Data Science
 
