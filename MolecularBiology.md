@@ -1,7 +1,7 @@
 ---
 layout: page
-title: MolecularBiology
-permalink: /MolecularBiology/
+title: Molecular Biology
+permalink: /Molecular Biology/
 ---
 
 ## Project Overview
