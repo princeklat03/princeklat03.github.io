@@ -6,12 +6,7 @@ permalink: /MolecularBiology/
 
 ## Project Overview
  
- Attributes | |
-| -------- |  -------- |
-| Supervisor | Dr. Dipankar Sen |
-| Affiliation | Department of MBB, Simon Fraser University |
-| Publication | 1 (Nucleic Acids Research) |
-| Skills | Gel Electrophoresis, Cell Culture, Mass Spectroscopy, Dot blot, Western blot, PCR|
+<img src="/images/Molbio1.png" height="180" align="center"/>
 
 G-Quadruplexes are 4-stranded secondary structure made up of Guanine rich oligonucleotides (ssDNA and RNA). These structures are highly stable at physiological conditions with potential implications in Cancer and neurological disorders. 
 I used the Heme:G-Quadruplex intrisic DNAzyme activity to map G-quadruplexes in living cells. Here is the description:
