@@ -17,7 +17,7 @@ Throughout my academic, industrial and professional journey, I have cultivated a
 
 
 ## DNA Nanotechnology
-- [A novel engineering to make long and reversible DNA nanowire and introduction to "Socket-plug" complementarity](DNA%20Nanotech.md)
+- [A novel engineering to make long and reversible DNA nanowire and introduction to "Socket-plug" complementarity](DNANanotech.md)
 
 
 ## Biostatistics
