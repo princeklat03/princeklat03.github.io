@@ -4,6 +4,7 @@ title: DNANanotech
 permalink: /DNANanotech/
 ---
 
+## Project Overview
 <img src="/images/DNAnanotch1.png" height="180" align="center"/>
 
 I conceived an original approach to create elongated and reversible DNA nanowires. These nanowires hold substantial promise across a spectrum of applications, serving as integral components in communication modules, sensor systems, logic gates, and various other domains of DNA nanotechnology. Additionally, this approach gave rise to a novel category of DNA sticky-ends known as "Socket-Plug" complementarity, facilitating the reversible connection of blunt-ended DNA fragments. Here is the description of the two publications that came out of this work.
