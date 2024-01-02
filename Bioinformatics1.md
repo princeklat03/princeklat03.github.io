@@ -21,7 +21,7 @@ recurrent mutations at the 3′ UTR of NFKBIZ as a novel mechanism of oncogene d
 
 
 
-<video controls width="200" height="200" style="display:block; margin: 0 auto;">
+<video controls width="300" height= "auto" style="display:block; margin: 0 auto; max-width: 100 %;">
     <source src="/images/VID_20211125_170758.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
