@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Bioinformatics1
-permalink: /Bioinformatics1/
+title: Bioinformatics
+permalink: /Bioinformatics/
 ---
 
 ## Project Overview
