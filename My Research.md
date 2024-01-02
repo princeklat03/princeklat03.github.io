@@ -23,7 +23,7 @@ Throughout my academic, industrial and professional journey, I have cultivated a
 ## Biostatistics
 - Placebo study from multi arm platform trials
 
-Data Science
+## Data Science
 
 [List of all Machine learning projects](Data%20Science.md)
     
