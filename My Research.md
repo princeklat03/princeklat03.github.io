@@ -9,7 +9,7 @@ Throughout my academic, industrial and professional journey, I have cultivated a
 ## Bioinformatics
  - [Molecular Dynamics Simulations](Bioinformatics1.md)
 
-## Experimental Projects
+## Experimental (Wet-lab) Biology
 
 - [Biophysics: Discovery of a unique DNA structure "iCD-DNA" linked to multiple neurological disorder](Biophysics.md)
 - [Biochemistry: Discovery of a DNAzyme to catalyse "Click Reaction"](Biochemistry.md)
