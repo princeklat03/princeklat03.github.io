@@ -1,7 +1,7 @@
 ---
 layout: page
-title: DNA Nanotech
-permalink: /DNA Nanotech/
+title: DNANanotech
+permalink: /DNANanotech/
 ---
 
 ## Project Overview
