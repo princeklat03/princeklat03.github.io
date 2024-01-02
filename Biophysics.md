@@ -6,7 +6,7 @@ permalink: /Biophysics/
 
 ## Project Overview
  
-<img src="/images/Biophysics1.png" height="160" align="center"/>
+<img src="/images/Biophysics1.png" height="180" align="center"/>
 
 I, under the supervision of Dr. Dipankar Sen, worked with d(C2G4) repeat DNA sequence to discover a novel DNA secondary structure, named, iCD-DNA, with potential causal implication in Neurodegenrative Disorders. Here is the description:
 
