@@ -6,12 +6,7 @@ permalink: /Bioinformatics1/
 
 ## Project Overview
  
- Attributes | |
-| -------- |  -------- |
-| Supervisor | Dr. Ryan Morin and Dr. Dipankar Sen |
-| Affiliation | Department of MBB, Simon Fraser University |
-| Publication | 1 (Nature Communications) |
-| Skills | MD Simulations (GROMACS), SHAPE-Seq|
+<img src="/images/Bioinformatics1.png" height="180" align="center"/>
 
 This was a collaborative project with Dr. Ryan's group at Simon Fraser University where I deployed Molecular Dynamics Simulations using GROMACS and SHAPE-Sequencing to explore the structure-functional relation in 
 recurrent mutations at the 3′ UTR of NFKBIZ as a novel mechanism of oncogene deregulation and NF-κB pathway activation in the activated B-cell (ABC) subgroup. Here is the description:
