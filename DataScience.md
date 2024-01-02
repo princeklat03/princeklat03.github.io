@@ -1,7 +1,7 @@
 ---
 layout: page
-title: DataScience
-permalink: /DataScience/
+title: Data Science
+permalink: /Data Science/
 ---
 
 Github: [Github_Prince](https://github.com/princeklat03){:target="_blank" rel="noopener"}
