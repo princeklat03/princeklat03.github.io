@@ -25,6 +25,6 @@ Throughout my academic, industrial and professional journey, I have cultivated a
 
 ## Data Science
 
-[List of all Machine learning projects](DataScience.md)
+- [List of all Machine learning projects](DataScience.md)
     
 
