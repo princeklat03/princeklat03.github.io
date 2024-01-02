@@ -19,3 +19,9 @@ recurrent mutations at the 3′ UTR of NFKBIZ as a novel mechanism of oncogene d
   centre B-cell (GCB) subgroup, correlate with poor patient outcomes suggestive of a novel oncogene. These results expand the list of subgroup driver mutations that may facilitate implementation
   of improved diagnostic assays and could offer new avenues for the development of targeted therapeutics.
 
+
+
+<video controls width="400" height="auto" style="display:block; margin: 0 auto;">
+    <source src="/images/VID_20211125_170758.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
