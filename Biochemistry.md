@@ -6,12 +6,7 @@ permalink: /Biochemistry/
 
 ## Project Overview
  
- Attributes | |
-| -------- |  -------- |
-| Supervisor | Dr. Dipankar Sen |
-| Affiliation | Department of MBB, Simon Fraser University |
-| Publication | 1 (Nucleic Acids Research) |
-| Skills | Gel Electrophoresis, Mass Spectroscopy |
+<img src="/images/Biochemistry1.png" height="160" align="center"/>
 
 I participated in a project of my labmate "Dr. Kun Liu" to discover and characterise a novel DNAzyme to catalyse Click reaction in water. I co-authored a paper with him and Dr. Sen. Here is the detail:
 
