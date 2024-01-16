@@ -8,7 +8,7 @@ Throughout my academic, industrial and professional journey, I have cultivated a
  
 ## Bioinformatics/Biostatistics
  - [Molecular Dynamics Simulations and RNA-seq](Bioinformatics1.md)
- - [R Shiny Web app to create automated Clinical Trial SAP generation for FDA submission](https://3wsncf-prince0kumar-lat.shinyapps.io/SAP_TLF_App/)
+ - [R Shiny Web app for automated generation of FDA standard SAP](https://3wsncf-prince0kumar-lat.shinyapps.io/SAP_TLF_App/)
  - Placebo study from multi arm platform trials (coming soon)
 
 ## Experimental (Wet-lab) Biology
