@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Biostatistics
-permalink: /Biostatistics/
+title: Biostatistics1
+permalink: /Biostatistics1/
 ---
 
 ## Project Overview
