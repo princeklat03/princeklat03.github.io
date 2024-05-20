@@ -5,7 +5,7 @@ permalink: /Biostatistics/
 ---
 
 ## Project Overview
-<img src="/images/Stats2.png" height="180" align="center"/>
+<img src="/images/stats2.png" height="180" align="center"/>
 
 Under the supervision of Dr. Ofir Harari, I performed the **Statistical Analysis** for this paper which aimed at investigating the requirement of exact matched placebos as compared to non-matched
 placebos in randomised clinical trials.
