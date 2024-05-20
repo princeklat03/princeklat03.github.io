@@ -10,7 +10,7 @@ Throughout my academic, industrial and professional journey, I have cultivated a
  - [Molecular Dynamics Simulations and RNA-seq](Bioinformatics1.md)
  - [R Shiny Web app for automated generation of FDA standard SAP](https://3wsncf-prince0kumar-lat.shinyapps.io/SAP_TLF_App/)
  - [Using Bayesian Methods to Improve Vaccine and Cluster Randomized Trial Designs](Biostatistics1.md)
- - Placebo study from multi arm platform trials (coming soon)
+ - [Placebo study from multi arm platform trials to explore the impact of replacing non-matched placebo for matched ones](Biostatistics2.md)
 
 ## Experimental (Wet-lab) Biology
 
