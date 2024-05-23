@@ -9,7 +9,7 @@ permalink: /Publications/
 
 1. [Harari O, Park JJH, **Lat PK**, Mills EJ (2024) Adaptive designs in public health: Vaccine and cluster randomized trials go Bayesian. **_Statistics in Medicine_** PMID: 38716764](https://onlinelibrary.wiley.com/doi/10.1002/sim.10104){:target="_blank" rel="noopener"}
 
-2. [Reis G, Savassi LCM, Ferreira TS, Reis LLF, Simplicio MIC, Ribeiro LB, Silva EADSM, **Lat PK** et al., (2024) Matched vs Nonmatched Placebos in a Randomized Trial of COVID-19 Treatments. **_JAMA Network Open_** PMID: 38767921 PMCID: PMC11107303](https://pubmed.ncbi.nlm.nih.gov/38767921/){:target="_blank" rel="noopener"} 
+2. [Reis G, Savassi LCM, Ferreira TS, Reis LLF, Simplicio MIC, Ribeiro LB, Silva EADSM, **Lat PK** et al., (2024) Matched vs Nonmatched Placebos in a Randomized Trial of COVID-19 Treatments. **_JAMA Network Open_** PMID: 38767921 PMCID: PMC11107303](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2818862){:target="_blank" rel="noopener"} 
 
 3. [**Lat PK** et al., (2021). A Long and Reversibly Self-Assembling 1-D DNA Nanostructure Built from Triplex and Quadruplex Hybrid Tiles. **_Angew Chem_** Int Ed, 60, 16, 8722 – 8727](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202016668){:target="_blank" rel="noopener"}
 
