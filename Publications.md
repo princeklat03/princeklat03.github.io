@@ -46,5 +46,7 @@ permalink: /Publications/
 1. [Interview Biopatrika](https://biopatrika.com/2022/10/24/dna-a-next-generation-material-for-digital-data-storage/){:target="_blank" rel="noopener"}
 <img src="/images/Screenshot 2022-10-27 at 12.35.16 PM.png" align="center"/>
 2. <b>Advances in mRNA Therapeutics and Vaccines</b> [Magazine: Pharma Focus America](https://www.pharmafocusamerica.com/articles/advances-in-mrna-therapeutics-and-vccines){:target="_blank" rel="noopener"}
+
 3. [Podcast with **Dr. Alexander Ariel Padrón González**](https://drive.google.com/file/d/1wY0C_jsBLgDGC012_I8vdEqqf07Gf8eh/view?usp=sharing){:target="_blank" rel="noopener"}
+
 4. [Guest Lecture at IIT Kanpur on unconventional properties of Nucleic Acids](https://drive.google.com/file/d/1GNrKlTZqcDvxkyDYOqfXfGBBd7tToYjk/view?usp=sharing){:target="_blank" rel="noopener"}
