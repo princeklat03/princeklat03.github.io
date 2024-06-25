@@ -49,7 +49,6 @@ permalink: /Publications/
 <br>
 
 2. <b>Advances in mRNA Therapeutics and Vaccines</b> [Americanhhm: Magazine Article](https://www.pharmafocusamerica.com/articles/advances-in-mrna-therapeutics-and-vccines){:target="_blank" rel="noopener"}
-<img src="/images/Nucleic Acids.png" width="350" align="right"/>
 <br>
 <br>
 
