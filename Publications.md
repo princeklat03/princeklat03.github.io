@@ -54,6 +54,6 @@ permalink: /Publications/
 <br>
 
 3. [Lecture: DNA Nanotechnology](https://transcripts.gotomeeting.com/#/s/78c52387f42b7f5091dba3bbd4b80e9aba45c5d9fc4a059ca081e3007fd8afae){:target="_blank" rel="noopener"}
-<img src="/images/DNA Nanotech.png" width="350" align="center"/>
+<img src="/images/DNA Nanotech.png" width="320" align="center"/>
                                             
                                      
