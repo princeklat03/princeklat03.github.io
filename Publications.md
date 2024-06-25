@@ -49,11 +49,11 @@ permalink: /Publications/
 <br>
 
 2. <b>Advances in mRNA Therapeutics and Vaccines</b> [Americanhhm: Magazine Article](https://www.pharmafocusamerica.com/articles/advances-in-mrna-therapeutics-and-vccines){:target="_blank" rel="noopener"}
-<img src="/images/Nucleic Acids.png" width="150" align="center"/>
+<img src="/images/Nucleic Acids.png" width="250" align="center"/>
 <br>
 <br>
 
 3. [Lecture: DNA Nanotechnology](https://transcripts.gotomeeting.com/#/s/78c52387f42b7f5091dba3bbd4b80e9aba45c5d9fc4a059ca081e3007fd8afae){:target="_blank" rel="noopener"}
-<img src="/images/DNA Nanotech.png" width="150" align="center"/>
+<img src="/images/DNA Nanotech.png" width="250" align="center"/>
                                             
                                      
