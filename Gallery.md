@@ -12,8 +12,6 @@ permalink: /Gallery/
 }
 
 .image-row img {
-    max-width: 100%; /* Ensures images do not overflow their container */
-    height: auto; /* Maintains aspect ratio */
     border-radius: 10px; /* Smooths the edges */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adds a shadow for a sharp definition */
 }
