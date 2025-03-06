@@ -25,18 +25,19 @@ permalink: /Talks & Awards/
 ## Conference Talks
 ### _Poster Presentation_
 1. A novel technique to capture DNA/RNA G-Quadruplexes in living cells using Heme-Quadruplex enzymatic activity. CSC Conference, Quebec, Canada, June 2019
-2. A strange higher order structure of DNA formed by repeat expansion of d(G4C2) sequence linked to neurodegenerative disorders, Volcano Conference, Pack Forest, WA, USA, March 2017
+2. Unusual DNA structure from d(G4C2) repeat expansion linked to neurodegeneration, Volcano Conference, WA, March 2017.
 3. Molecular understanding of Bone development. SURGE presentation, IIT Kanpur, India, 2012
 
 ### _Oral Presentation_
-1. A novel approach of mapping G-Quadruplexes in living cells using Heme-Quadruplex enzymatic activity coupled with NGS. 7th International Meeting on Quadruplex, Changchun, China, Sep 2019
-2. iCD-DNA: a strange higher order braided-triplex topology of DNA linked to neurodegenerative disorders. Volcano Conference, Pack Forest, WA, USA, March 2018
+1. DNA/RNA G-Quadruplex mapping in living cells via Heme-Quadruplex activity and NGS, Quadruplex Meeting, China, Sep 2019.
+2. iCD-DNA: unusual braided-triplex DNA linked to neurodegeneration, Volcano Conference, WA, March 2018.
 3. Computational modeling and an _in-vitro_ characterization of iCD-DNA. CSC Conference, Edmonton, Canada June 2018
 4. A Triplex-Quadruplex hybrid DNA Nanowire phased & anchored by G-Quartets, Chemistry Colloquium, SFU 2021
 5. A unique approach for making hybrid DNA tiles for nanotechnological applications. MBB Colloquium, SFU, 2021
 
 ### Guest Lecture
 1. IIT Kanpur **ESO 206**: Principles of Biotechnology: DNA application in Nanotechnology. 2021 (Host: Dr. Ashwani Kumar Thakur, Professor, IIT Kanpur)
+2. MFCEM Workshop, IIT Kanpur, **Python for Biologists**: introduction to python programming and its application in analysing biological data
 
 
 
