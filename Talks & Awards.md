@@ -5,7 +5,7 @@ permalink: /Talks & Awards/
 ---
 
 ## Awards/Fellowship
-1. Winner, Invention to Innovation (i2I) Emerging Venture Pitch Competition, SFU, Canada [Amount: $2,500]
+1. Winner, i2I Emerging Venture Pitch Competition, SFU, Canada [Amount: $2,500]
 2. CD Nelson Entrance Scholarship, SFU, Canada [Amount: $72,000]
 3. Provost Prize of Distinction, SFU, Canada [Amount: $16,666]
 4. David L. Baillie Grad Fellowship, SFU, Canada [Amount: $7,600]
